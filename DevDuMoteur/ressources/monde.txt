@@ -1,0 +1,9 @@
+#Nombre de mettres pour 1 pixel, sous la forme "m p" -> m*10^p mettres pour un pixel
+500 6
+#temps écoulé dans le monde virtuel pour une seconde réelle
+86400
+#soleil "rayon posx posy masse" -> rayon en pixel, posx et posy *10^6 mètres, masse*10^24 Kg
+50 0 0 1989100
+#astres "rayon posx posy masse" -> posx et posy *10^6 mètres, masse*10^24 Kg
+10 -200 0 5000.9736
+5 -300 0 5000.9736
